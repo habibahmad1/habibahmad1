@@ -1,8 +1,8 @@
-<img src="https://i.pinimg.com/originals/f2/2e/19/f22e19217479b2452026718bb4c94417.gif" width="30%" align="center" />
 <div align="center">
-<img src="https://i.pinimg.com/736x/37/87/aa/3787aa2e37b82a58102e67ec55af25b6.jpg" width="25%" align="right" />
+<img src="https://cdn.pixabay.com/photo/2023/07/31/13/42/woman-8161029_640.png" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Habib+Ahmad%2C+a+Programmer+Web+%E2%9C%A9" width="70%" />
 <br><br>
+    <img src="https://i.pinimg.com/originals/f2/2e/19/f22e19217479b2452026718bb4c94417.gif" width="30%" />
 <pre>
     💼 Fullstack dev
     💻 System programming languages • DevOps 
