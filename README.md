@@ -15,6 +15,6 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/habib-ahmad)
-[![Dribbble Follow](https://img.shields.io/badge/Dribbble-follow%20me-FF4088?style=social&logo=dribbble)](https://dribbble.com/HabibAhmad)
-![GitHub followers](https://img.shields.io/github/followers/habibahmad1?style=social)
+[![Dribbble Follow](https://img.shields.io/badge/Dribbble-ac379c-follow%20me-FF4088?style=social&logo=dribbble)](https://dribbble.com/HabibAhmad)
+![GitHub followers](https://img.shields.io/github-758fff/followers/habibahmad1?style=social)
 </div>
