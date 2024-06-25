@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://cdn.pixabay.com/photo/2023/07/31/13/42/woman-8161029_640.png" width="25%" align="right" />
+< img src="https://cdn.pixabay.com/photo/2023/07/31/13/42/woman-8161029_640.png" width="25%" align="right" />
+<img src="https://cdn.pixabay.com/photo/2024/05/26/15/27/anime-8788959_1280.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Hello;My+Name+Habib+Ahmad%2C+a+Programmer+Web+%E2%9C%A9" width="70%" />
 <br><br>
     <img src="https://i.pinimg.com/originals/f2/2e/19/f22e19217479b2452026718bb4c94417.gif" width="30%" />
